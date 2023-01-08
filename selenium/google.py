@@ -47,6 +47,7 @@ for img in imgs:
 
 driver.close()
 
+
 # imgurl = driver.find_element_by_css_selector(".n3VNCb.KAlRDb").get_attribute("src")
 # urllib.request.urlretrieve(imgurl, "test.jpg")
 # assert "Python" in driver.title
